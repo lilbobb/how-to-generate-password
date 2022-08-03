@@ -1,0 +1,26 @@
+body {
+  margin: 10px;
+  padding: 0;
+  background-color: blue;
+  font-family: sans-serif;
+}
+
+section{
+  border-top: 2px solid gray;   
+}
+
+#random{
+  color: green
+}
+
+#generate-el{
+  background-color: green;
+}
+
+button{
+  width: 130px;
+  height: 30px;
+  font-size: 0.7rem; 
+  margin: 6px;
+  border: none;
+}
